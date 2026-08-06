@@ -1,6 +1,6 @@
 package br.com.fiap.tranquilo_express.repository;
 
-import br.com.fiap.tranquiloexpress.model.Mercado;
+import br.com.fiap.tranquilo_express.model.Mercado;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
